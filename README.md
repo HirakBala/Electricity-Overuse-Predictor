@@ -1,10 +1,11 @@
-                                                      ⚡ Electricity Overuse Prediction (Production ML Project)
+                                                    ⚡ Electricity Overuse Prediction (Production ML Project)
+                                        Use this link to use the model- https://electricity-overuse-predictor.streamlit.app/
 📌 Overview
 An end-to-end machine learning system that predicts electricity overuse risk from daily household appliance usage and regional electricity data.
 The model outputs a probability score and is deployed as a live Streamlit application.
 
 🎯 Objective
-Predict whether a household will overuse electricity based on daily usage patterns, enabling proactive energy management.
+Predict whether a household will overuse electricity based on daily usage patterns to enable proactive energy management.
 
 🧠 Dataset
 Each record represents one day of usage,
